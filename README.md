@@ -4,8 +4,6 @@ Aplicación de consola en **Java 17+** que simula el monitoreo de una planta de 
 
 Nació de unir dos mundos: la **instrumentación industrial** y la **programación orientada a objetos**. Las reglas del sistema (tags, rangos, alarmas, tolerancias de calibración) salen de cómo se trabaja en una planta real.
 
-> ⚠️ Es un proyecto educativo / de portfolio. Simula las señales; **no** se conecta a PLC, OPC ni Modbus, y no debe usarse en una planta real.
-
 ## Conceptos de instrumentación que implementa
 
 | Concepto | Cómo se refleja en el código |
@@ -162,4 +160,5 @@ java -ea -cp bin PruebasPlanta
 
 ## Autor
 
-**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech)
+**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech)· [LinkedIn](www.linkedin.com/in/vendittiangel)
+
