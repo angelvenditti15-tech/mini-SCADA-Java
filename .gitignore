@@ -1,0 +1,13 @@
+# Compilados
+bin/
+*.class
+
+# Datos generados al ejecutar el programa
+datos/
+*.dat
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.DS_Store
